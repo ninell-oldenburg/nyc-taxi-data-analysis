@@ -13,7 +13,7 @@ interest. The results will be displayed in tables as well as shown in graphs mad
 
 ## Use
 
-The code comes in two forms: as Python-file and as jupyter notebook. For executing this you need to get a databricks account 
+The code comes in two forms: as Python-File and as Jupyter Notebook. For executing this you need to get a databricks account 
 (https://databricks.com/), and import the notebook via the databricks workspace. 
 
 For executing the code via the shell you would need to first install spark (liked discribed here: 
