@@ -21,7 +21,8 @@ https://stackoverflow.com/questions/23256536/importing-pyspark-in-python-shell) 
 
 ## Additions
 
-Feel free to add extra analysis to the code. We also wrote a paper about the project. Text someone of us to get the PDF. 
+If you want to read more about the project, you can always send us a message to get the PDF. Feel free to add other aspects of 
+interest to the anaylsis and share it with us.
 
 ## Thanks
 
